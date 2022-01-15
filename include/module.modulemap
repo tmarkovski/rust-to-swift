@@ -1,0 +1,4 @@
+module MathWiz {
+    header "mathwiz.h"
+    export *
+}
